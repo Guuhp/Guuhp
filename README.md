@@ -2,8 +2,8 @@
 <!-- BARRA DE STATUS-->
 <div align="center">
   <a href="https://github.com/Guuhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guuhp&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guuhp&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guuhp&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guuhp&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <!-- LINGUAGENS QUE USO--> 
