@@ -20,6 +20,7 @@
 </div>
   
   ##
+  ![luiz gustavo-contributions](https://activity-graph.herokuapp.com/graph?username=Guuhp&theme=react-dark)
  
 <!-- REDES SOCIAIS -->
 <div> 
